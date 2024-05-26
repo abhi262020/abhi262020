@@ -1,6 +1,8 @@
 ## Hi there, I'm Abhishek J S 👋
-😎 I'm looking for any fresher.
-👯 I’m looking to collaborate on an open-source project.
+- 😎 I'm looking for any fresher.
+- 👯 I’m looking to collaborate on an open-source project.
+- 📫 How to reach me: [...](https://www.linkedin.com/in/abhishekjayarams/).
+- 🤔 I’m looking for help with the communities, researchers, development and sociology.
 <!--
 **abhi262020/abhi262020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
