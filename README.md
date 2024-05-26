@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, I'm Abhishek J S 👋
+😎 I'm looking for any fresher.
+👯 I’m looking to collaborate on an open-source project.
 <!--
 **abhi262020/abhi262020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
