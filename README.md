@@ -1,5 +1,3 @@
-[![Desktop UI: Qt](https://img.shields.io/badge/Desktop_UI-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](#)
-
 ## Hi there, I'm Abhishek J S 👋
 - 😎 I'm looking for any fresher.
 - 👯 I’m looking to collaborate on an open-source project.
